@@ -1,0 +1,32 @@
+img{
+  width: 50vh;
+  height: 50vh;
+  margin-left:37%;
+}
+.wrapper h1{
+  margin-left: 37%;
+}
+.wrappe h1{
+  margin-left: 28%;
+}
+.main{
+  background: url(./img/spo.jpg) no-repeat;
+  background-size: cover;
+  height: 80vh;
+  background-position: 50% 50%;
+  width: 100%;
+  	font-size: 2rem;
+  	color: black ;
+  	font-family: 'Lobster', cursive;
+}
+.main1{
+  	font-size: 2rem;
+  	color: black ;
+  	font-family: 'Lobster', cursive;
+
+}
+.team{
+  font-size: 2rem;
+  color: black ;
+  font-family: 'Lobster', cursive;
+}
